@@ -6,6 +6,14 @@
 
 Battery Hub is a comprehensive Streamlit application designed to analyze, identify, and provide detailed information about household batteries through image recognition.
 
+![Image](https://github.com/user-attachments/assets/ee545392-13d4-4e09-b179-5ae528e2acc8)
+![Image](https://github.com/user-attachments/assets/d8905d1f-9235-4f51-afce-4c15127811e1)
+![Image](https://github.com/user-attachments/assets/1ca99766-b86e-4b8d-8541-b8ede431b65a)
+![Image](https://github.com/user-attachments/assets/f41379a0-6b4f-4fc6-ad75-67103b09222c)
+![Image](https://github.com/user-attachments/assets/b57653ba-7fc4-4adc-b02e-92ba666b77e7)
+![Image](https://github.com/user-attachments/assets/527cca74-34a6-498f-8b65-65cf0b4d56ad)
+![Image](https://github.com/user-attachments/assets/42f46213-1dc3-4476-b6ab-bf45f4ad7015)
+
 ## Features
 
 ### 🔍 Battery Analyzer
