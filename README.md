@@ -69,7 +69,7 @@ The application uses a pre-trained TensorFlow model to validate whether an uploa
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/battery-hub.git
+git clone https://github.com/itzz-keerthi/Battery-Hub-One-Spot-for-Batteries.git
 cd battery-hub
 ```
 
